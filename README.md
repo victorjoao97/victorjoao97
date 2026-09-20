@@ -54,13 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx logo" />
 </div>
 
-## GitHub stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorjoao97&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorjoao97&layout=compact&theme=dracula&hide_border=true" height="150" alt="Most used languages" />
-</div>
-
 ## Connect with me
 
 <div align="left">
@@ -69,9 +62,6 @@
   </a>
   <a href="mailto:dev.joao.vn@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Email" />
-  </a>
-  <a href="https://instagram.com/hyperruim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
 
@@ -83,6 +73,4 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/victorjoao97/victorjoao97/output/snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/victorjoao97/count.svg?" alt="Profile views" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=victorjoao97&custom_title=My%20Github%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=victorjoao97&custom_title=My%20Github%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=transparent)
