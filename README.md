@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 
-<h3 align="center">Full Stack Developer from São José do Rio Preto, São Paulo, Brazil</h3>
+<h3 align="center">Full Stack Developer from Jacarei, São Paulo, Brazil</h3>
 
 <p align="center">
   I enjoy turning ideas into practical, reliable, and user-focused software. I'm passionate about continuous learning, solving problems, and building products that create real value.
