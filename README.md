@@ -71,9 +71,6 @@
   <a href="mailto:dev.joao.vn@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="https://instagram.com/hyperruim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
 </div>
 
 <br clear="both">
